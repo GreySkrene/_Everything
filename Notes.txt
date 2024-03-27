@@ -1,0 +1,231 @@
+Backend - Java
+- Json Serializer using GSON
+- test service called from AWS Lambda
+- DAOs to access info from database
+- DAO Factory (for easy access to all your DAOs)
+- (And Implementations of the iDAO and iDAOFactory)
+- Gradle if you can glean anything from that.
+
+Chef's Central
+- Nothing
+
+Command Line (CS 224)
+- Hw 3
+  - Assembly commands
+- Lab 1
+  - Parsing command line and operations in C
+- Lab 2
+  - Accessing Lunix and learning commands
+  - GDP Debugger
+- Lab 3
+  - Not sure...
+
+CS 235 - (VSC) - C
+- file opener
+- Queries
+- Linked List 
+- bomb Lab
+- Stuff in C.
+
+CS 236 - C++
+- how to update github using command line
+- CMake file
+- Autamaton and logical parsing
+- Project 0
+  - .h and .cpp files
+  - info.cpp    
+    - switch case
+    - Enum
+  - Library.cpp
+    - C++ Examples
+  - BookCreator.cpp
+    - Extracting info in C++
+  - BookListCreator.cpp
+    - inheritance
+  - Book.cpp
+    - Object
+    - Gets and Sets
+- Project 1
+  - Lexer.cpp
+    - Create Automatons
+  - Token.cpp
+    - Create String Tokens
+  - Automatons
+    - Just check one index and see if it is the desired character
+    - Used to parse a file w/Schemes, Facts, Rules, Queries (logic)
+- Project 2
+  - just xml...
+- Project 3
+  - More Automatons and info parsing
+- Project 4
+  - Evaluate rules w/Automatons
+
+CS 240 - Java
+- Example Code
+  - Book.Java
+    - Object
+    - @Override toString, equals, hashCode
+  - ClaimRouteHandler
+    - Http requests
+  - Client.Java
+    - Http Client
+  - Server.Java
+    - Http Server
+  - Compress.Java (and Decompress.Java) (LegacyCompress & LegacyDecompress)
+    - How to zip a file in Java
+  - CopyFileExample.Java
+  - create-db.sql.txt
+    - How to create an SQL database 
+  - DatabaseAccessExample.Java
+  - ScannerExamples.Java
+    - File Scanners 
+- FamilyMap
+  - Shared (between Client and Server)
+    - Models
+    - requests
+    - Results
+  - Main.Java
+    - Handlers...
+- Project SDK
+  - EvilHangman
+    - EmptyDictionaryException.Java
+      - Inheritance in Java (extends ___)
+    - EvilHangman.Java
+      - Main and Functions in Java
+    - EvilHangmanGame.Java
+      - Complex object 
+    - IEvilHangmanGame.Java
+      - interface IEHGame with @params
+    - HangmanTest.Java
+      - Tests in Java (@BeforeEach...)
+  - SpellingCorrector
+    - SpellCorrector.Java
+      - interface (iSpellCorrector and @override)
+      - Sets in Java
+    - Trie.Java
+      - exploring a tree
+  
+CS 260 - Web Development - CSS, JS, HTML, React
+- authTest
+  - Javascript get and post, async function, port and app.listen
+- ReactTest
+  - html Examples
+- RoyalNotesWebsite
+  - Search.js
+    - Class
+- TestJest
+  - server.js
+    - get and put endpoints
+- ViteTest
+  - Vite setup
+
+CS 312 - Algorithms, python
+- proj 1
+  - fermat prime/composit
+- proj 2
+  - convex hull 
+- proj 3
+  - @abstractmethod
+  - network Routing
+- proj 4
+  - Gene Sequencing
+- proj 5
+  - Trav. Sales. Prob
+
+CS 324 - C
+- Lab-shell-signals (tiny shell)
+- proxy
+- threads
+
+CS 340 - Java
+- Abstract Factory
+- Adapter
+- API GateWay
+- AWS Lambda
+- AWS s3
+- Command
+- Decorator
+- Dependency Injection
+- Dependency Inversion
+- Design principles
+- DynamoDB
+- Generic
+- Mock
+- Observer
+- Proxy and Facade
+- SQS
+- State Pattern
+- Strategy Pattern- Template
+
+CS 356 - HCI
+- React and JS RoyalNotesApp
+
+CS 428 - Schemer - Java, Javascript
+- Run 
+  - Backend
+    - DAO
+    - Lambda
+    - Models
+    - service
+    - Examples
+  - Frontend
+    - Assets
+      - css
+    - Components 
+      - vue
+    - Router 
+    - Server Access 
+    - States 
+
+CS 456 - HCI - Vue, js, React
+- Wiki Realms app beginning
+
+CS 465 - CyberSecurity - C
+- Encryption 
+- Exploit and Patch 
+- Web Authentication
+
+CS 470 - AI - Python
+- BayesFilter
+- MontyRistPetersburg
+- connect 4
+- Risk AI
+- Sudoku
+
+Math 215 - Python
+- Cpy intro to python
+  - Refresher on python commands
+- EigenVector
+  - more math Refresher
+- gram schmidt
+- iterative
+- least squares
+- linear transformations
+- svd and image compression
+
+Personal - Python
+- prompt creator in python
+
+
+Here is a list of different QA courses offered by that website (Test Automation University):
+Visual AI Path (4hrs)
+PlaywritePath (4hrs)
+Cypress Path (7hrs)
+DevOps Path (12 hrs)
+CodeLess Path (6 hrs)
+python testing path (14hrs)
+Java Web UI Path (22hrs)
+Java API Path (15 hrs)
+Java Mobile Path (26hrs)
+JavaScript Web UI Path (14 hrs)
+Javascript API path (7hrs)
+Javascript Mobile Path (6 hrs)
+C# Testing Path (7hrs)
+Ruby Testing Path (4 hrs)
+The Extra path (unit testing, blockchain, winappdriver, 11hrs)
+
+Keep in mind, these courses are divided up into smaller sections so that you don't have to sit down for hours and hours at a time. 
+
+
+
+
