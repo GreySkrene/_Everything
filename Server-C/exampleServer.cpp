@@ -5,6 +5,8 @@
 #include <string>
 using namespace std;
 
+// cs 224 lab 2
+
 int main(int argc, char* argv[]) {
     int numStudents = 0;
     int numExams = 0;

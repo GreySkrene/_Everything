@@ -4,7 +4,8 @@
 - 3/18/24 - talked with a cs worker in gov and decided to make a front end website first
 - 3/20/24 - 1h - looking for front end building focused websites
 - 3/20/24 - 2h - working on wix website
-- 3/21/24 - .5h - working on wix website
+- 3/21/24 - .5h - working on wix website (put on hold due to $ concerns)
+- 3/27/24 - 3hrs - updating and revamping linkedin and going back over projects in Google drive. 
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
@@ -28,7 +29,8 @@
 - [ ] Complete Lab 1 - Parsing command line and operations in C.
 - Focus on: Command line parsing, C programming.
 - Command Line (CS 224)
-- 3/18/24 - 1h setting up server in c. (contemplating using a different language...)
+- 3/18/24 - 1h setting up server in c. (contemplating using a different language...) Next: work on 224 lab2.
+- 3/28/24 - 1h Set up a simple firewall. issues testing as my Server.c is having errors.
 
 ## Week 4: C++ Automation
 - [ ] Implement Automaton and logical parsing for Project 1.
