@@ -6,13 +6,15 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 
 # CS Career Preparation Plan
 - 4h reviewing previous projects
-- 2h creating this plan
+- 2h creating plan (this)
 - 3/18/24 - talked with a cs worker in gov and decided to make a front end website first
 - 3/20/24 - 1h - looking for front end building focused websites
 - 3/20/24 - 2h - working on wix website
-- 3/21/24 - .5h - working on wix website
-- 3/22/24 - Put front-end website on hold; need $$ to run a website.
-- 3/27/24 - 1h - revamp linkedin profile and set up pitch59 (needs more work)
+- 3/21/24 - .5h - working on wix website (put on hold due to $ concerns)
+- 3/27/24 - 3hrs - updating and revamping linkedin and going back over projects in Google drive.
+- 4/1/24 - .5h - transfering wix to github
+- 4/1/24 - 1h - initializing next.js, react, typescript, ESLint, TailwindCSS front-end website on github pages.
+- 4/4/24 - 1h - go through react/jsx tutorial
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
@@ -36,8 +38,8 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - [ ] Complete Lab 1 - Parsing command line and operations in C.
 - Focus on: Command line parsing, C programming.
 - Command Line (CS 224)
-- 3/18/24 - 1h setting up server in c. (contemplating using a different language...)
-  Note: I am in a cybersecurity class so I was a bit hesitant about making a server in C, as it isn't very secure. I did learn recently about firewalls, which basically filter all incoming packets based on either set specifications, known malicious IP address, etc. I looked into different firewalls and it seems like buisinesses usually buy or rent a firewall that they can set up and use. I might see about getting a free version, or set one up myself. 
+- 3/18/24 - 1h setting up server in c. (contemplating using a different language...) Next: work on 224 lab2.
+- 3/28/24 - 1h Set up a simple firewall. issues testing as my Server.c is having errors.
 
 ## Week 4: C++ Automation
 - [ ] Implement Automaton and logical parsing for Project 1.
@@ -45,6 +47,9 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - CS 236 - C++
 - 1 hr - ISTQB study
 - 1 hr - test automation certification
+- 3/26/24-3/29/24 - js certification (test automation University)
+- 4/1/24 - 1h - Mocha certification
+- 4/8/24 - 1h - start an automation project to try to automate adding a photo to a photo-printing website.
 
 ## Week 5: Java Networking
 - [ ] Implement HTTP requests in ClaimRouteHandler.
