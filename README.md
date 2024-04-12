@@ -16,6 +16,7 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 4/1/24 - 1h - initializing next.js, react, typescript, ESLint, TailwindCSS front-end website on github pages.
 - 4/4/24 - 1h - go through react/jsx tutorial
 - 4/10/24 - 1.5h - coding challenge
+- 4/12/24 - 1h - another coding challenge
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
