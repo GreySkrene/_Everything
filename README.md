@@ -16,7 +16,8 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 4/1/24 - 1h - initializing next.js, react, typescript, ESLint, TailwindCSS front-end website on github pages.
 - 4/4/24 - 1h - go through react/jsx tutorial
 - 4/10/24 - 1.5h - coding challenge
-- 4/12/24 - 1h - another coding challenge
+- 4/12/24 - 3h - another coding challenge
+- 4/13/24 - 2h - coding challenge
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
@@ -34,7 +35,7 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 3/4/24 - 1h work on how to integrate lambdas to backend (try to have lambdas but still have a server?)
 - 3/5/24 - 1h Achievements Request, Response, and Handler. (next service)
 - 3/7/24 - 30min work on service and how to organize.
-- 3/9/24 - 1hr finished one service operation. 
+- 3/9/24 - 1hr finished one service operation.
 
 ## Week 3: C Command Line
 - [ ] Complete Lab 1 - Parsing command line and operations in C.
