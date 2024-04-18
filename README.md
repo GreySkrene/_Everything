@@ -55,6 +55,7 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 3/26/24-3/29/24 - js certification (test automation University)
 - 4/1/24 - 1h - Mocha certification
 - 4/8/24 - 1h - start an automation project to try to automate adding a photo to a photo-printing website.
+- 4/18/24 - 1h - chai and mocha notes.
 
 ## Week 5: Java Networking
 - [ ] Implement HTTP requests in ClaimRouteHandler.
