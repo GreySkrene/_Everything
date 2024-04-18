@@ -20,6 +20,7 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 4/13/24 - 2h - coding challenge
 - 4/15/24 - .5h - coding challenge
 - 4/16/24 - 1h - coding challenge
+- 4/18/24 - 2h - portfolio website
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
