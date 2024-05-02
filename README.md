@@ -4,7 +4,7 @@ I am basically going through all my old projects and applying what I learned in 
 I used AI to help organize all my past projects into sections I can look at each week as a 'refresher' for the different coding languages. 
 Notes.txt contains summaries of my past projects I worked on for my CS Major.
 
-To Check out my portfolio website (unfinished), visit [my profile](https://greyskrene.github.io/Portfolio/){:target="_blank"}
+To Check out my portfolio website (unfinished), visit [my profile](https://greyskrene.github.io/Portfolio/)
 
 
 # CS Career Preparation Plan
