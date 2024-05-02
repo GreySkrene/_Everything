@@ -4,6 +4,9 @@ I am basically going through all my old projects and applying what I learned in 
 I used AI to help organize all my past projects into sections I can look at each week as a 'refresher' for the different coding languages. 
 Notes.txt contains summaries of my past projects I worked on for my CS Major.
 
+To Check out my portfolio website (unfinished), visit [my profile](https://greyskrene.github.io/Portfolio/)
+
+
 # CS Career Preparation Plan
 - 4h reviewing previous projects
 - 2h creating plan (this)
@@ -22,7 +25,8 @@ Notes.txt contains summaries of my past projects I worked on for my CS Major.
 - 4/16/24 - 1h - coding challenge
 - 4/18/24 - 2h - portfolio website
 - 4/23/24 - 1h - portfolio website / Organize CS and learning links
-- 4/26/24 - 1h - portfolio website  
+- 4/26/24 - 1h - portfolio website
+- 5/2/24 - 2h - portfolio website
 
 ## Week 1: Java Backend
 - [ ] Implement a Json Serializer using GSON.
